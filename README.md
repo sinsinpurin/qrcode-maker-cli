@@ -1,4 +1,4 @@
-# RQ Maker
+# QR Maker
 
 Create a QR code with any URL.
 
